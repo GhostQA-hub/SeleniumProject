@@ -22,7 +22,7 @@ public class Vowels {
 			if (email.endsWith("@lsq.com")) {
 				System.out.println(email);
 				
-				System.out.println("Hello Woerld");
+				System.out.println("Hello World");
 			}
 		}
 
